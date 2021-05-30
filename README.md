@@ -6,3 +6,4 @@ For the project I used arduino Nano board A328p and IPM50 IGBT board from old OS
 This device is far away from such industrial devices but it works pretty well and can be used for educational purposes.
 
 Wiring diagram is here: [VFD_from_old_osaka_ac](https://user-images.githubusercontent.com/12484065/120106931-a214da80-c167-11eb-8908-295b3e2065dd.JPG)
+
