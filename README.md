@@ -7,3 +7,4 @@ This device is far away from such industrial devices but it works pretty well an
 
 Wiring diagram is here: [VFD_from_old_osaka_ac](https://user-images.githubusercontent.com/12484065/120106931-a214da80-c167-11eb-8908-295b3e2065dd.JPG)
 
+Link to youtube video is here: https://youtu.be/at4nRa6RnJ0
