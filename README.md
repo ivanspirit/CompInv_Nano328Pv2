@@ -1,5 +1,5 @@
 # CompInv_Nano328Pv2
-This project is how to make a Variable Frequency Drive for 3 phase squirel cage motors from old OSAKA Air Conditioner 
+This project is about how to make a Variable Frequency Drive for 3 phase squirel cage motors from old OSAKA Air Conditioner 
 
 For the project I used arduino Nano board A328p and IPM50 IGBT board from old OSAKA AC - the main part in this board is MITSIBISHI PM50CTJ060-3 IGBT MODULE. 
 
